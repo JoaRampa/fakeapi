@@ -1,12 +1,12 @@
 [
-  events: {
+  "events": {
     {
-      id: 1,
-      nombre: "joa"
+      "id": 1,
+      "nombre": "joa"
     },
     {
-      id: 2,
-      nombre: "lusi"
+      "id": 2,
+      "nombre": "lusi"
     }
   }
 ]
