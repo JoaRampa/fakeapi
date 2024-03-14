@@ -1,5 +1,4 @@
-{
-  "events": 
+[
   {
     "id": 1,
     "nombre": "joa"
@@ -8,4 +7,4 @@
   "id": 2,
   "nombre": "lusi"
   }
-}
+]
