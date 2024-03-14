@@ -1,10 +1,12 @@
-[
 {
-"id": 123,
-"nombre": "joa"
-},
-{
-"id": 456,
-"nombre": "lusi"
+  "events":[
+    {  
+    "id": 123,
+    "nombre": "joa"
+    },
+    {
+    "id": 456,
+    "nombre": "lusi"
+    }
+  ]
 }
-]
